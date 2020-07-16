@@ -1,0 +1,85 @@
+
+.body2{
+    background: #e2e7f2;
+    padding: 20px;
+}
+
+.all-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.my-box{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border-radius: 15px;
+    height: auto;
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    background: linear-gradient(
+        to right,
+        #fd6638 0%,
+        #fd6638 50%,
+        #feffff 50%,
+        #feffff 100%
+    );
+}
+
+.my-box-exploresio{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border-radius: 15px;
+    height: auto;
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    background: linear-gradient(
+        to right,
+        #fd6638 0%,
+        #fd6638 40%,
+        #feffff 40%,
+        #feffff 100%
+    );
+}
+
+.my-box-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 6px solid #fac634;
+    border-radius: 50%;
+    width : 100px;
+    height: 100px;
+    padding: 50px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center center;
+    background-image: url('/img/me.jpg');
+}
+
+.my-text p{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color1 p{
+    color : #fff
+}
+
+.color2 p{
+    color : rgb(0, 0, 0)
+}
