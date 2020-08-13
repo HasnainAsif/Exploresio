@@ -22,8 +22,8 @@ const ContactSection = () => {
                   <i class="ti-home"></i>
                 </span>
                 <div class="media-body">
-                  <h3>Buttonwood, California.</h3>
-                  <p>Rosemead, CA 91770</p>
+                  <h3>I Hall, UET Taxila</h3>
+                  <p>Taxila Rawalpindi</p>
                 </div>
               </div>
               <div class="media contact-info">
@@ -31,7 +31,7 @@ const ContactSection = () => {
                   <i class="ti-tablet"></i>
                 </span>
                 <div class="media-body">
-                  <h3>+1 253 565 2365</h3>
+                  <h3>+92 3103716896</h3>
                   <p>Mon to Fri 9am to 6pm</p>
                 </div>
               </div>
@@ -40,7 +40,7 @@ const ContactSection = () => {
                   <i class="ti-email"></i>
                 </span>
                 <div class="media-body">
-                  <h3>support@colorlib.com</h3>
+                  <h3>hussnainasif173@gmail.com</h3>
                   <p>Send us your query anytime!</p>
                 </div>
               </div>

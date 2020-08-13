@@ -37,3 +37,8 @@ app.use("/admin/tour", require("./routes/admin/tour"));
 app.use("/admin/custom_tour", require("./routes/admin/custom_tour"));
 
 app.listen(PORT, () => console.log(`Server Started on Port ${PORT}`));
+
+// var count = 0;
+// for (var i = 1; i < 5; i++) {
+//   console.log("x".repeat(i));
+// }
