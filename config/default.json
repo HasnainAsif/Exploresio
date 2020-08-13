@@ -1,4 +1,5 @@
 {
-    "mongoURI" : "mongodb://localhost:27017/EXPLORESIO",
-    "jwtSecret" : "mysecrettoken"
+  "mongoURII": "mongodb://localhost:27017/EXPLORESIO",
+  "mongoURI": "mongodb+srv://admin:hasnain123@tourism.5rqqs.mongodb.net/exploresio?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
