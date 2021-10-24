@@ -30,7 +30,7 @@ const CurrentTrips = ({ tour: { loading, tours } }) => {
                         <div className="col-lg-4 col-md-6" key={tour._id}>
                           <div className="single_trip">
                             <div className="thumb">
-                              <img src={tour.files[0].file} alt="" />
+                              <img src={tour.files[0]?.file} alt="" />
                             </div>
                             <div className="info">
                               <div className="date">
